@@ -15,5 +15,5 @@ This project applies deep learning techniques to classify songs into moods such 
 ## Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/BME450-project.git
+   git clone https://github.com/aggarw94/BME450-project.git
    cd BME450-project
